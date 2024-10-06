@@ -1,4 +1,4 @@
-## Olá, me chamo Evandroo Magalhães
+## Olá, me chamo Evandro Magalhães
 
 ### Bem vindos
 
