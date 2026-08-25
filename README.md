@@ -15,6 +15,9 @@
   
 </div>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=evandroynno&theme=dracula&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+
 ![Evandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=evandroynno&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true)
 ![Most Language](https://github-readme-stats.vercel.app/api/top-langs/?username=evandroynno&layout=donut&langs_count=4&theme=github_dark&include_all_commits=true&count_private=true)
 
